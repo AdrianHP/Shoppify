@@ -1,0 +1,40 @@
+﻿  @model AllProductsViewModel
+    
+<body>
+    <div class="row m-1 p-1">
+        <div id="categories" class="col-3 navbar-nav">
+            @await Component.InvokeAsync("NavigationMenu")
+        </div>
+        <div class="container-fluid col-9" >
+            @{ 
+                var items_displayed = 0;
+                @while (items_displayed < Model.PagingInfo.TotalItems && items_displayed < Model.PagingInfo.ItemsPerPage)
+                {
+                    var items_per_row = 0;
+                    <div class="row">
+                        @while (items_per_row < Model.PagingInfo.ItemsPerRow && items_displayed < Model.PagingInfo.ItemsPerPage && items_displayed < Model.PagingInfo.TotalItems)
+                        {
+                        <div class="col-3 ">
+                            <div class="bg-faded">
+                                <h4><span class="float-left">@Model.Products[items_displayed].Title</span> </h4>
+                            </div>
+                            <a href ="@Url.Action("Product","Product", new { id = Model.Products[items_displayed].Id })" >
+                                <img src=@Model.Products[items_displayed].Image1 class="img-fluid" alt=@Model.Products[items_displayed].Title>
+                            </a>
+                            <span class="badge badge-pill badge-primary" style="float:left">@Model.Products[items_displayed].Category</span>  
+                            <span class="badge badge-pill badge-primary" style="float:right">Price: $@Model.Products[items_displayed].Price</span>
+                            @{
+                                items_per_row++;
+                                items_displayed++;
+                            }
+                        </div>
+                        }
+                    </div>
+                }
+            }
+        </div>
+    </div>
+    <nav class="navbar-light">
+        <div page-model="@Model.PagingInfo" page-action="AllProducts" class="btn-group pull-right m-1" page-url-category="@Model.Category"></div>
+    </nav>
+</body>

@@ -1,0 +1,147 @@
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.exe
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.deps.json
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.runtimeconfig.json
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.runtimeconfig.dev.json
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.pdb
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.Views.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.Views.pdb
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.csprojAssemblyReference.cache
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\staticwebassets\Shoppify.StaticWebAssets.Manifest.cache
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\staticwebassets\Shoppify.StaticWebAssets.xml
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.RazorAssemblyInfo.cache
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.RazorAssemblyInfo.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.AssemblyInfoInputs.cache
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.AssemblyInfo.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.TagHelpers.input.cache
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.TagHelpers.output.cache
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.RazorCoreGenerate.cache
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.RazorTargetAssemblyInfo.cache
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.RazorTargetAssemblyInfo.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.Views.pdb
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.pdb
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.csproj.CopyComplete
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Auction\AllAuctions.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Auction\Auction.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Notification\AllNotifications.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Notification\Notification.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Product\AllProducts.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Product\InsertProduct.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Product\Product.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\User\ManageUser.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Claudia's PC\Source\Repos\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+F:\Shoppify\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\Shoppify\bin\Debug\netcoreapp3.0\appsettings.json
+F:\Shoppify\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.exe
+F:\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.deps.json
+F:\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.runtimeconfig.json
+F:\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.runtimeconfig.dev.json
+F:\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.pdb
+F:\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.Views.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Shoppify.Views.pdb
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\Shoppify\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.csprojAssemblyReference.cache
+F:\Shoppify\obj\Debug\netcoreapp3.0\staticwebassets\Shoppify.StaticWebAssets.Manifest.cache
+F:\Shoppify\obj\Debug\netcoreapp3.0\staticwebassets\Shoppify.StaticWebAssets.xml
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.MvcApplicationPartsAssemblyInfo.cache
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.RazorAssemblyInfo.cache
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.RazorAssemblyInfo.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.AssemblyInfoInputs.cache
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.AssemblyInfo.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.TagHelpers.input.cache
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.TagHelpers.output.cache
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.RazorCoreGenerate.cache
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Auction\AllAuctions.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Auction\Auction.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Notification\AllNotifications.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Notification\Notification.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Product\AllProducts.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Product\InsertProduct.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Product\Product.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\User\ManageUser.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\User\Register.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.RazorTargetAssemblyInfo.cache
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.RazorTargetAssemblyInfo.cs
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.Views.pdb
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.csproj.CopyComplete
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.dll
+F:\Shoppify\obj\Debug\netcoreapp3.0\Shoppify.pdb
+C:\Users\Claudia's PC\Source\Repos\Shoppify\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
